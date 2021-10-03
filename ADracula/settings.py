@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-%3-f%oy^e$d!bb-#8_h!e6@e=d=cx)_or&pr@dg0x7zs9ofos0
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']    # dev, is me template ka name bhi aayega
+ALLOWED_HOSTS = ['draculad.herokuapp.com']    # dev, is me template ka name bhi aayega
 
 
 # Application definition
